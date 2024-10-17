@@ -4,11 +4,10 @@ Partygram is a mobile application that was developed as part of the Programming 
 
 ## Features 🚀
 
-- **User Authentication:** Secure sign-up and login using Supabase’s authentication service.
-- **Create Posts:** Users can create posts, set images and descriptions.
-- **Event Listings:** Browse through a curated list of events near you.
-- **RSVP to Events:** Users can confirm attendance to events and get notified about event updates.
-- **Push Notifications:** Receive real-time updates and reminders about upcoming events.
+- **User Authentication:** Securely register and/or log in with your Artevelde email using the Supabase authentication service.
+- **Create Posts:** Users can create posts.
+- **Create Stories:** Users can create stories.
+- **send chat messages:** Users can send chat messages to each other this happens without sockets or anything like that the messages are simply re-fetched every 10 seconds.
 
 ## Technologies Used 🛠️
 
