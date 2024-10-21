@@ -19,5 +19,5 @@ Partygram is a mobile application that was developed for the Programming 6 assig
 - **TypeScript**: Core programming language for the app logic.
 
 
-** Author
+## Author
 - Stef Van Boven
